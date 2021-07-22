@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Bulat  
+- 👀 I’m interested in AutoTesting
+- 🌱 I’m currently learning C#, Python, WinAppDriver
+- 💞️ I’m looking to collaborate on getting myself a new workplace with $$$
+- 📫 How to reach me: Skype: bulat.hakimov
