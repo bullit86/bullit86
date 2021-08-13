@@ -1,0 +1,11 @@
+C:\src\bullit86\VSAutoCourse\HW1\HW1_Fizz\HW1_Fizz\bin\Debug\netcoreapp2.1\HW1_Fizz.deps.json
+C:\src\bullit86\VSAutoCourse\HW1\HW1_Fizz\HW1_Fizz\bin\Debug\netcoreapp2.1\HW1_Fizz.runtimeconfig.json
+C:\src\bullit86\VSAutoCourse\HW1\HW1_Fizz\HW1_Fizz\bin\Debug\netcoreapp2.1\HW1_Fizz.runtimeconfig.dev.json
+C:\src\bullit86\VSAutoCourse\HW1\HW1_Fizz\HW1_Fizz\bin\Debug\netcoreapp2.1\HW1_Fizz.dll
+C:\src\bullit86\VSAutoCourse\HW1\HW1_Fizz\HW1_Fizz\bin\Debug\netcoreapp2.1\HW1_Fizz.pdb
+C:\src\bullit86\VSAutoCourse\HW1\HW1_Fizz\HW1_Fizz\obj\Debug\netcoreapp2.1\HW1_Fizz.csprojAssemblyReference.cache
+C:\src\bullit86\VSAutoCourse\HW1\HW1_Fizz\HW1_Fizz\obj\Debug\netcoreapp2.1\HW1_Fizz.csproj.CoreCompileInputs.cache
+C:\src\bullit86\VSAutoCourse\HW1\HW1_Fizz\HW1_Fizz\obj\Debug\netcoreapp2.1\HW1_Fizz.AssemblyInfoInputs.cache
+C:\src\bullit86\VSAutoCourse\HW1\HW1_Fizz\HW1_Fizz\obj\Debug\netcoreapp2.1\HW1_Fizz.AssemblyInfo.cs
+C:\src\bullit86\VSAutoCourse\HW1\HW1_Fizz\HW1_Fizz\obj\Debug\netcoreapp2.1\HW1_Fizz.dll
+C:\src\bullit86\VSAutoCourse\HW1\HW1_Fizz\HW1_Fizz\obj\Debug\netcoreapp2.1\HW1_Fizz.pdb
